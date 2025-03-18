@@ -1,8 +1,8 @@
 # Ignore virtual environment
 venv/
 
-# Ignore model files (optional, remove if you want to upload)
-models/*.pth
+# # Ignore model files (optional, remove if you want to upload)
+# models/*.pth
 
 # Ignore cache and temporary files
 __pycache__/
